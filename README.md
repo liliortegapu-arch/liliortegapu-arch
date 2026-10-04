@@ -4,11 +4,23 @@
 
 <br><br>
 
+<table>
+<tr>
+
+<td>
 <img src="./assets/catgif1.gif" width="110">
+</td>
+
+<td>
 
 # ✨ LILIANA ✨
 
 ### `2º DAM Student · Software Developer · Game Dev`
+
+</td>
+
+</tr>
+</table>
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
@@ -153,10 +165,6 @@ I'm currently working on:
 
 <code>meow.exe is running...</code>
 
-<br><br>
-
-<img src="https://coolreadme.xyz/api/cat-card?user=liliortegapu-arch&style=compact&bg=midnight" width="340">
-
 </div>
 
 ---
@@ -190,6 +198,10 @@ I'm currently working on:
 <br><br>
 
 <h3>Thanks for stopping by!</h3>
+
+<img src="./assets/catgif1.gif" width="90">
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=liliortegapu-arch&color=A78BFA&style=flat-square">
 
