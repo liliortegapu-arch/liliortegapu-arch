@@ -1,26 +1,14 @@
 <div align="center">
 
-<img src="./assets/fondoPc.jpeg" width="700">
+<img src="./assets/fondoPc.jpeg" width="900">
 
 <br><br>
 
-<table>
-<tr>
-
-<td>
-<img src="./assets/catgif2.gif" width="110">
-</td>
-
-<td>
+<img src="./assets/catgif1.gif" width="110">
 
 # ✨ LILIANA ✨
 
 ### `2º DAM Student · Software Developer · Game Dev`
-
-</td>
-
-</tr>
-</table>
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
@@ -38,14 +26,11 @@
 
 I'm a **2nd-year DAM student** and aspiring software developer.
 
-I like turning ideas into code, building things from scratch and learning
-through every project.
+I like turning ideas into code, building things from scratch and learning through every project.
 
-I'm currently focused on **Java, databases, Git/GitHub and game development
-with Godot**, while exploring new technologies along the way.
+I'm currently focused on **Java, databases, Git/GitHub and game development with Godot**, while exploring new technologies along the way.
 
-I'm looking for opportunities to keep learning, gain professional experience
-and grow as a developer.
+I'm looking for opportunities to keep learning, gain professional experience and grow as a developer.
 
 <div align="center">
 
@@ -150,7 +135,7 @@ I'm currently working on:
 
 ### Warriors — Immanuel Wilkins
 
-[![Spotify](https://img.shields.io/badge/Warriors%20%E2%80%94%20Immanuel%20Wilkins-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
+[![Warriors — Immanuel Wilkins](https://img.shields.io/badge/Warriors%20%E2%80%94%20Immanuel%20Wilkins-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
 
 </div>
 
@@ -160,11 +145,9 @@ I'm currently working on:
 
 <div align="center">
 
-<img src="./assets/catgif2.gif" width="150">
-
+<img src="./assets/catgif2.gif" width="140">
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="./assets/catgif3.gif" width="120">
+<img src="./assets/catgif3.gif" width="115">
 
 <br><br>
 
@@ -172,7 +155,7 @@ I'm currently working on:
 
 <br><br>
 
-<img src="https://coolreadme.xyz/api/cat-card?user=liliortegapu-arch&style=compact&bg=midnight" width="380">
+<img src="https://coolreadme.xyz/api/cat-card?user=liliortegapu-arch&style=compact&bg=midnight" width="340">
 
 </div>
 
@@ -204,9 +187,7 @@ I'm currently working on:
 
 <img src="./assets/gitIt.jpeg" width="180">
 
-<br>
-
-<img src="./assets/catgif1.gif" width="100">
+<br><br>
 
 <h3>Thanks for stopping by!</h3>
 
