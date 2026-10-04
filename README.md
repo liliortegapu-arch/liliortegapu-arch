@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/catgif1.gif" width="130">
+<img src="./assets/catgif1.gif" width="100">
 
 # ✨ LILIANA ✨
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="./assets/program1.avif" width="400">
+<img src="./assets/fondoPc" width="700">
 
 </div>
 
@@ -28,20 +28,24 @@
 
 ## 👩‍💻 About Me
 
-I'm a **2nd-year DAM student** passionate about software development.
+I'm a **2nd-year DAM student** and aspiring software developer.
 
-I enjoy learning by creating projects and experimenting with different technologies.
+I like turning ideas into code, building things from scratch and learning
+through every project.
 
-I'm especially interested in:
+I'm currently focused on **Java, databases, Git/GitHub and game development
+with Godot**, while exploring new technologies along the way.
 
-- Java
-- Databases
-- Git & GitHub
-- Game development
-- Godot
+I'm looking for opportunities to keep learning, gain professional experience
+and grow as a developer.
 
-I'm currently looking for opportunities to keep learning, gain professional
-experience and grow as a developer.
+<br>
+
+<div align="center">
+
+`Code · Create · Break · Fix · Repeat`
+
+</div>
 
 ---
 
@@ -49,22 +53,22 @@ experience and grow as a developer.
 
 ### 💻 Programming
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
-![Tiled](https://img.shields.io/badge/Tiled-2C2C2C?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Tiled](https://img.shields.io/badge/Tiled-2C2C2C?style=for-the-badge)
 
 ---
 
@@ -192,7 +196,11 @@ I'm currently working on:
 
 <div align="center">
 
-<img src="./assets/catgif1.gif" width="110">
+<img src="./assets/gitIt" width="180">
+
+<br>
+
+<img src="./assets/catgif1.gif" width="100">
 
 <h3>Thanks for stopping by!</h3>
 
