@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/fondoPc.jpeg" width="700">
+
+<br>
+
 <img src="./assets/catgif1.gif" width="100">
 
 # ✨ LILIANA ✨
@@ -18,14 +22,6 @@
 
 ---
 
-<div align="center">
-
-<img src="./assets/fondoPc" width="700">
-
-</div>
-
----
-
 ## 👩‍💻 About Me
 
 I'm a **2nd-year DAM student** and aspiring software developer.
@@ -38,8 +34,6 @@ with Godot**, while exploring new technologies along the way.
 
 I'm looking for opportunities to keep learning, gain professional experience
 and grow as a developer.
-
-<br>
 
 <div align="center">
 
@@ -182,7 +176,7 @@ I'm currently working on:
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
+<img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
 
 <br>
 
@@ -196,7 +190,7 @@ I'm currently working on:
 
 <div align="center">
 
-<img src="./assets/gitIt" width="180">
+<img src="./assets/gitIt.jpeg" width="180">
 
 <br>
 
