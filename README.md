@@ -2,13 +2,25 @@
 
 <img src="./assets/fondoPc.jpeg" width="700">
 
-<br>
+<br><br>
 
-<img src="./assets/catgif1.gif" width="100">
+<table>
+<tr>
+
+<td>
+<img src="./assets/catgif2.gif" width="110">
+</td>
+
+<td>
 
 # ✨ LILIANA ✨
 
 ### `2º DAM Student · Software Developer · Game Dev`
+
+</td>
+
+</tr>
+</table>
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
