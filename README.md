@@ -124,15 +124,11 @@ I'm currently working on:
 
 <div align="center">
 
-<a href="https://store.steampowered.com/app/2947440/SILENT_HILL_f/">
-
-<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2947440/header.jpg" width="450">
-
-</a>
+<img src="./assets/silenthillf.jpg" width="450">
 
 ### SILENT HILL f
 
-[![Steam](https://img.shields.io/badge/VIEW_ON_STEAM-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2947440/SILENT_HILL_f/)
+[![VIEW ON STEAM](https://img.shields.io/badge/VIEW_ON_STEAM-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2947440/SILENT_HILL_f/)
 
 </div>
 
@@ -154,9 +150,17 @@ I'm currently working on:
 
 <div align="center">
 
-<img src="./assets/catgif2.gif" width="180">
+<img src="./assets/catgif2.gif" width="160">
 
-<h3><code>meow.exe is running...</code></h3>
+<br>
+
+![Cat Streak](https://coolreadme.xyz/api/cat-card?user=liliortegapu-arch&style=compact&bg=midnight)
+
+<br>
+
+<code>meow.exe is running...</code>
+
+<br>
 
 <img src="./assets/catgif3.gif" width="140">
 
