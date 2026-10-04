@@ -146,23 +146,23 @@ I'm currently working on:
 
 ---
 
-# 🐱 Cat Corner
+# Cat Corner
 
 <div align="center">
 
-<img src="./assets/catgif2.gif" width="160">
+<img src="./assets/catgif2.gif" width="150">
 
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-![Cat Streak](https://coolreadme.xyz/api/cat-card?user=liliortegapu-arch&style=compact&bg=midnight)
+<img src="./assets/catgif3.gif" width="120">
 
-<br>
+<br><br>
 
 <code>meow.exe is running...</code>
 
-<br>
+<br><br>
 
-<img src="./assets/catgif3.gif" width="140">
+<img src="https://coolreadme.xyz/api/cat-card?user=liliortegapu-arch&style=compact&bg=midnight" width="380">
 
 </div>
 
