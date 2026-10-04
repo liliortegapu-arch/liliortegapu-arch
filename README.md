@@ -8,7 +8,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
@@ -21,7 +20,7 @@
 
 <div align="center">
 
-<img src="./assets/program1.avif" width="700">
+<img src="./assets/program1.avif" width="400">
 
 </div>
 
@@ -51,7 +50,6 @@ experience and grow as a developer.
 ### 💻 Programming
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 
@@ -128,7 +126,7 @@ I'm currently working on:
 
 <a href="https://store.steampowered.com/app/2947440/SILENT_HILL_f/">
 
-<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2947440/header.jpg" width="700">
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2947440/header.jpg" width="450">
 
 </a>
 
@@ -170,22 +168,19 @@ I'm currently working on:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
 
 <br>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-
-<br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Git%2FGitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
 
 </div>
 
