@@ -1,8 +1,10 @@
 <div align="center">
 
-# [Your Name] ✨
+# [Liliana] ✨
 
 *Developer by day, gamer by night*
+
+🎓 2º DAM · 💻 Software Development · 🎮 Game Dev
 
 </div>
 
@@ -10,13 +12,15 @@
 
 ## 🎮 Currently Playing
 
-![Gaming](https://coolreadme.xyz/api/gaming?game=Elden%20Ring&platform=PC&rank=Level%20150&hours=200&genre=Action%20RPG&style=dark)
+![Gaming](https://coolreadme.xyz/api/gaming?game=Silent%20Hill%20f&platform=PC&genre=Psychological%20Horror&style=dark)
 
 ---
 
 ## 🎵 Now Playing
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0a0a0a&border_color=A78BFA)](https://open.spotify.com/user/YOURID)
+🎧 **Warriors — Immanuel Wilkins**
+
+[![Spotify](https://img.shields.io/badge/Spotify-Warriors%20%E2%80%94%20Immanuel%20Wilkins-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
 
 ---
 
@@ -26,22 +30,65 @@
 <summary>Click to expand</summary>
 
 ### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 
 ### Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liliortegapu-arch&show_icons=true&theme=dark&hide_border=true)
 
 </details>
 
 ---
 
+## 🎮 Current Project
+
+### 👾 JuegoMostritos
+
+A 2D game I'm developing with **Godot**, where I'm working on:
+
+- 🏃 Player movement and jumping
+- 👊 Attack system
+- 👾 Different enemy behaviors
+- 💀 Death system
+- 🔥 Traps and hazards
+- 🎬 AnimatedSprite2D animations
+- 🗺️ 2D maps
+
+[![JuegoMostritos](https://img.shields.io/badge/View%20Project-JuegoMostritos-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://github.com/liliortegapu-arch/JuegoMostritos)
+
+---
+
+## 📚 Currently Learning
+
+- Java
+- SQL & Databases
+- Python
+- Godot & GDScript
+- Git & GitHub
+- Software Development
+
+---
+
 ## 🌐 Find Me
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
+[![GitHub](https://img.shields.io/badge/GitHub-liliortegapu--arch-181717?style=for-the-badge&logo=github)](https://github.com/liliortegapu-arch)
+
+[![Email](https://img.shields.io/badge/Email-liliortegapu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liliortegapu@gmail.com)
 
 ---
 
@@ -49,6 +96,6 @@
 
 *Thanks for stopping by! 🌟*
 
-![Visitor](https://komarev.com/ghpvc/?username=YOURNAME&color=A78BFA&style=flat-square)
+![Visitor](https://komarev.com/ghpvc/?username=liliortegapu-arch&color=A78BFA&style=flat-square)
 
 </div>
